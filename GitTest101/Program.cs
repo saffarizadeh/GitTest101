@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("This is something that I changed!");
+            Console.WriteLine("Hey!");
         }
     }
 }
