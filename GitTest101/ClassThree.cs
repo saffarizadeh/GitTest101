@@ -10,5 +10,7 @@ namespace GitTest101
     {
         internal string FirstName { get; set; }
         internal string LastName { get; set; }
+        internal string Title { get; set; }
+        internal string Description { get; set; }
     }
 }
