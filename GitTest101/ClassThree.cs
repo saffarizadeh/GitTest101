@@ -8,6 +8,7 @@ namespace GitTest101
 {
     internal class ClassThree
     {
+        internal string FirstName { get; set; }
         internal string LastName { get; set; }
     }
 }
